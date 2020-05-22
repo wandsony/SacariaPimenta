@@ -351,7 +351,7 @@ a:visited {
 @media screen and (min-width: 62em) {
     #about .grid__item {
         width: 21%;
-        margin: 0 10px;
+        margin: 1% 1%;
     }
 }
 
