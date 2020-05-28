@@ -7,7 +7,8 @@ body {
     margin: 0;
     padding: 0;
     color: #36384c;
-    background: #e9dccd;
+    background: white;
+    /*#e9dccd;*/
     font-family: "Lato", sans-serif;
 }
 
@@ -416,7 +417,14 @@ a:visited {
 footer {
     padding: 20px 0;
     text-align: center;
-    background-color: #e9dccd;
+    background-color: white;
+    /*#e9dccd;*/
     color: #36384c;
     font-size: 1rem;
+}
+
+.btn {
+    position: absolute;
+    margin-top: 270px;
+    margin-left: ;
 }
