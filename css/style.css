@@ -150,6 +150,7 @@ a:visited {
 
 .block__content .intro {
     margin-bottom: 2rem;
+    text-align: justify;
 }
 
 .overlay {
@@ -304,7 +305,7 @@ a:visited {
 
 #home.block {
     background-image: url(../images/logo-central.png);
-    background-size: auto;
+    background-size: 60%;
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -426,5 +427,5 @@ footer {
 .btn {
     position: absolute;
     margin-top: 270px;
-    margin-left: ;
+    margin-left: 10;
 }
