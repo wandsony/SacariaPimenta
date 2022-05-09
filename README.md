@@ -1,6 +1,6 @@
 ## Sacaria Pimenta
 <p align="center">
-  <img alt="Sacaria Pimenta" src="images/sacariaPimentaLogoNew.jpeg" width="100%">
+  <img alt="Sacaria Pimenta" src="./assets/fotos/logo-central.png" width="100%">
 </p>
 
 ## Tecnologias
